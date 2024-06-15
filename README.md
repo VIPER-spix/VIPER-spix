@@ -1,12 +1,10 @@
-- 👋 Hi, I’m @VIPER-spix
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-VIPER-spix/VIPER-spix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+хз
+хз
+хз
+хз
+хз
+хз
+хз
+хз
+хз
+хз
